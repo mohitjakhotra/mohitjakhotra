@@ -2,8 +2,6 @@
 
 I am a Full Stack Software Developer. I Love to solve problems by building apps.
 
-Every now and then, you'll see me writing a [blog post](https://blog.devesh.tech), documenting my learnings or reading something interesting (I have more books than I could possibly read). If you can't find me doing any of the above, I'll probably be outside on a drive.
-
 ## Skills
 
 | Domain                 |    Skills   |
